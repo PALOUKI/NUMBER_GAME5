@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1736502033 source:e:\s3\projet tuteuré\number_game5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"pseudo.h"
+	"jeu.h"
+	"archives.h"
+
+1736501469 e:\s3\projet tuteuré\number_game5\pseudo.h
+	"archives.h"
+
+1736497338 e:\s3\projet tuteuré\number_game5\jeu.h
+	"archives.h"
+
+1736501469 source:e:\s3\projet tuteuré\number_game5\pseudo.c
+	"pseudo.h"
+	"archives.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1736498693 source:e:\s3\projet tuteuré\number_game5\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"jeu.h"
+	"archives.h"
+
+1736509613 e:\s3\projet tuteuré\number_game5\archives.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
+1736511638 source:e:\s3\projet tuteuré\number_game5\archives.c
+	"archives.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
